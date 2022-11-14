@@ -1,0 +1,705 @@
+{
+    "logo": "https://i01.appmifile.com/webfile/globalimg/pandora/mi-logo.svg",
+    "xiaomiPhones": [
+          {
+                "name": "Xiaomi 12 Pro 5G",
+                "price": "₹ 54,999",
+                "image": "https://i02.appmifile.com/174_operator_in/27/04/2022/0c645fa31777d06eef9f047440cf931e.jpg?width=140&height=140"
+          },
+          {
+                "name": "Xiaomi 11T Pro 5G",
+                "price": "from ₹ 39,999",
+                "image": "https://i02.appmifile.com/678_operator_in/19/01/2022/9f69e223e5eba1839578c1c5592a8ad1.jpg?width=140&height=140"
+          },
+          {
+                "name": "Xiaomi 11i Hypercharge 5G",
+                "price": "from ₹ 26,999",
+                "image": "https://i02.appmifile.com/31_operator_in/30/11/2021/40e9e8cd31afe710c38db8282c9cc158.jpg?width=140&height=140"
+          },
+          {
+                "name": "Xiaomi 11i 5G",
+                "price": "₹ 24,999",
+                "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1641441332.80624656.png?width=140&height=140"
+          },
+          {
+                "name": "Xiaomi 11 Lite NE 5G",
+                "price": "from ₹ 26,999",
+                "image": "https://i02.appmifile.com/655_operator_in/29/09/2021/1a486ff83dc3a984105dea62abc72d5c.png?width=140&height=140"
+          }
+         
+    ],
+    "redmiPhones": [
+          {
+                "name": "Redmi K50i 5G",
+                "price": "from ₹ 25,999",
+                "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1658292445.18054589.jpg?width=140&height=140"
+          },
+          {
+                "name": "Redmi Note 11 Pro Plus 5G",
+                "price": "from ₹ 20,999",
+                "image": "https://i02.appmifile.com/91_operator_in/09/03/2022/cb5d4cad35f4a38e21befcac747e87f6.png?width=140&height=140"
+          },
+          {
+                "name": "Redmi Note 11T 5G",
+                "price": "from ₹ 16,999",
+                "image": "https://i02.appmifile.com/31_operator_in/30/11/2021/40e9e8cd31afe710c38db8282c9cc158.jpg?width=140&height=140"
+          },
+          {
+                "name": "Redmi 11 Prime 5G",
+                "price": "from ₹ 13,999",
+                "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1662446280.14645018.jpg?width=140&height=140"
+          },
+          {
+                "name": "Redmi A1",
+                "price": "from ₹ 6,499",
+                "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1662398930.47448521.jpg?width=140&height=140"
+          }
+    ],
+    "tv": [
+          {
+                "name": "Xiaomi OLED Vision TV",
+                "price": "₹ 94,999",
+                "image": "https://i02.appmifile.com/246_operator_in/27/04/2022/dea94915d645e8cdc4bea2c987965d24.jpg?width=140&height=140"
+          },
+          {
+                "name": "Mi TV 5X Series",
+                "price": " From ₹ 31,999",
+                "image": "https://i02.appmifile.com/921_operator_in/26/08/2021/4778b474c355ee89bfe7a04d37af0f2a.jpg?width=140&height=140"
+          },
+          {
+                "name": "Redmi Smart TV 4K Ultra HD X Series ",
+                "price": "₹ 33,999",
+                "image": "https://i02.appmifile.com/337_operator_in/10/02/2022/e05dcb7334d279e48a2427a5cb014b5c.jpg?width=140&height=140"
+          },
+          {
+                "name": "Xiaomi Smart TV 5A Series",
+                "price": "From ₹ 13,999",
+                "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1650992919.42213385.jpg?width=140&height=140"
+          },
+          {
+                "name": "Mi TV 4A 100 cm (40)",
+                "price": "₹ 23,999",
+                "image": "https://i02.appmifile.com/986_operator_in/01/06/2021/f2b7747ce2bf0365e4414eb323b97ed5.jpg?width=140&height=140"
+          }
+    ],
+    "laptopsAndTablets": [
+          {
+                "name": "Xiaomi Notebook Pro 120G",
+                "price": "From ₹ 69,999",
+                "image": "https://i02.appmifile.com/540_operator_in/30/08/2022/044a54cb4276c971eae219964ecb6b35.jpg?width=140&height=140"
+          },
+          {
+                "name": "MI NOTEBOOK ULTRA",
+                "price": "From ₹ 59,999",
+                "image": "https://i02.appmifile.com/456_operator_in/11/08/2022/2da0f49df4c331f3eb7332a3b7ef6337.jpg?width=140&height=140"
+          },
+          {
+                "name": "MI NOTEBOOK PRO",
+                "price": "From ₹ 56,999",
+                "image": "https://i02.appmifile.com/63_operator_in/11/08/2022/e543d0a41a0167cad008d1ba52250b0a.jpg?width=140&height=140"
+          },
+          {
+                "name": "RedmiBook Series",
+                "price": "From ₹ 34,999",
+                "image": "https://i02.appmifile.com/367_operator_in/22/10/2021/6f40b6d50faca4fa1c7a5cd6748fb419.jpg?width=140&height=140"
+          },
+          {
+                "name": "Xiaomi Pad 5",
+                "price": "From ₹ 26,999",
+                "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1651037989.75416883.jpg?width=140&height=140"
+          },
+          {
+            "name": "Redmi Pad",
+            "price": "From ₹ 14,999",
+            "image": "https://i02.appmifile.com/307_operator_in/04/10/2022/65184c667303383adb2ea4037ef5296d.jpg?width=140&height=140"
+      }
+    ],
+    "accessories": [
+          {
+                "name": "Power Banks",
+                "price": "From ₹ 799",
+                "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/B0272C02-9066-1A1B-B63C-DE2C2B169C34.jpg?width=140&height=140"
+          },
+          {
+                "name": "Chargers & Cables",
+                "price": "From ₹ 149",
+                "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/84A39CC0-85BC-DCFC-1D33-9BD71D1B131A.jpg?width=140&height=140"
+          },
+          {
+                "name": "Redmi Writing Pad",
+                "price": "From ₹ 699",
+                "image": "https://i02.appmifile.com/424_operator_in/10/10/2022/f237f90f85de263a258af74a3348fb7f.jpg?width=140&height=140"
+          },
+          {
+                "name": "Mi Beard Trimmers ",
+                "price": "From ₹ 799",
+                "image": "https://i02.appmifile.com/65_operator_in/13/10/2021/f789c3a0bb2e973fbb74580b7bb78cf3.jpg?width=140&height=140"
+          },
+          {
+                "name": "TV Accessories",
+                "price": "From ₹ 199",
+                "image": "https://i02.appmifile.com/7_operator_in/12/10/2021/50acfe6a3249423a1e076ee4c1bbff74.png?width=140&height=140"
+          }
+    ],
+    "home": [
+          {
+                "name": "Xiaomi Robot Vacuum-Mop 2Pro",
+                "price": "₹ 25,999",
+                "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1658400388.2213048.jpg?width=140&height=140"
+          },
+          {
+                "name": "Xiaomi Smart Air Fryer",
+                "price": "₹ 6,999",
+                "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1660019943.77048905.jpg?width=140&height=140"
+          },
+          {
+                "name": "Mi Air Purifier 3",
+                "price": "₹ 9,999",
+                "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/D0577E6F-7952-56FD-86EB-7A3EF9FE33C1.jpg?width=140&height=140"
+          },
+          {
+                "name": "Xiaomi 360 home Security Camera 2K Pro",
+                "price": "₹ 3,999",
+                "image": "https://i02.appmifile.com/650_operator_in/26/08/2021/5a951acce2bd59ed4a0ac0abed69c8c9.jpg?width=140&height=140"
+          },
+          {
+                "name": "Xiaomi Smart Speaker (IR Control)",
+                "price": "From ₹ 4,999",
+                "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1657699018.20982385.jpg?width=140&height=140"
+          }
+    ],
+    "audio": [
+          {
+                "name": "Redmi Earbuds 3Pro",
+                "price": "₹ 2,999",
+                "image": "https://i02.appmifile.com/296_operator_in/03/09/2021/327556cd943b4eab6282ea4f382bd524.jpg?width=140&height=140"
+          },
+          {
+                "name": "Mi Portable Bluetooth Speaker (16W)",
+                "price": "₹ 2,499",
+                "image": "https://i02.appmifile.com/530_updatepdf_in/08/05/2020/dffe54d117f1c15448f6a61933499b20.png?width=140&height=140"
+          },
+          {
+                "name": "Redmi SonicBass Wireless Earphones",
+                "price": "₹ 1,299",
+                "image": "https://i02.appmifile.com/856_operator_in/13/10/2021/bbbe38481370fd06f8b5219e46efc97b.png?width=140&height=140"
+          },
+          {
+                "name": "Redmi Earbuds 3 Lite",
+                "price": "₹ 1,999",
+                "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1658168580.44383358.jpg?width=140&height=140"
+          },
+          {
+                "name": "Mi Earphones Basic",
+                "price": "₹ 429",
+                "image": "https://i02.appmifile.com/332_operator_in/13/10/2021/c63bb2f8b35788c4474b85de35ac6c2f.png?width=140&height=140"
+          }
+    ],
+    
+    "banner": {
+          "start": [
+                "https://i02.appmifile.com/390_operator_in/12/10/2022/1e7814294a30d80d611edbbc870ac09f.jpg",
+                "https://i02.appmifile.com/346_operator_in/11/10/2022/4138b586572710296eeafe237b2cdedf.jpg",
+                "https://i02.appmifile.com/489_operator_in/13/10/2022/5ef8f637946c7f9e95a16b7e27bb7a61.jpg",
+                "https://i02.appmifile.com/567_operator_in/13/10/2022/8b01d15e43db4bcf3318bedf5f40b59a.png",
+                "https://i02.appmifile.com/22_operator_in/13/10/2022/a829220af5c5ff9b5640a953d8bf700b.jpg",
+                "https://i02.appmifile.com/531_operator_in/13/10/2022/fa98cd8a475b4118e280994d797bdfa2.jpg",
+                "https://i02.appmifile.com/400_operator_in/13/10/2022/c890047095884d893bd5f0bddedd221e.jpg",
+                "https://i02.appmifile.com/499_operator_in/13/10/2022/a46a320a935d1289e5b7d03b1df0b853.jpg"
+                          ],
+          "end": [
+                {
+                      "name": "REDMI NOTE 11S",
+                      "description": "This phone has a liquid cooling technology which is very rare at this price point.Xiaomi has paid a lot of attention to managing thermals on this phone",
+                      "source": "C4E Tech",
+                      "image": "https://i02.appmifile.com/500_operator_in/23/02/2022/7dd77194a09db35f46aa82541d30a6f2.jpg"
+                },
+                {
+                      "name": "REDMI NOTE 11",
+                      "description": "Redmi Note 11 comes in a Starburst White colour with a glittery back throwing shades of blue. Despite the glossy texture, the choice of colour helps hide the fingerprint smudges. ",
+                      "source": "Money Control",
+                      "image": "https://i02.appmifile.com/794_operator_in/23/02/2022/29f71b53b9eeba2c95f4ca2ca39b48f8.jpg"
+                },
+                {
+                      "name": "REDMI SMART BAND PRO SPORTS WATCH ",
+                      "description": "It looks really cool and comes built like a tank with 5 ATM water resistance. This means you can use it in the rain or while swimming ",
+                      "source": "Technolobe",
+                      "image": "https://i02.appmifile.com/154_operator_in/23/02/2022/6402f385dba2e95d1d5a9d250cbf7c8d.jpg"
+                },
+                {
+                      "name": "XIAOMI 11T PRO 5G",
+                      "description": "Xiaomi turned the 11T Pro’s display into a multimedia monster with a true 6.67-inch 10-bit display capable of outputting 1 billion colours.                      ",
+                      "source": "My SmartPrice",
+                      "image": "https://i02.appmifile.com/395_operator_in/01/02/2022/89c7d2292f1bafd3b403439df9bd874f.jpg"
+                },
+                {
+                      "name": "XIAOMI 11I SERIES",
+                      "description": "The Xiaomi 11i Hypercharge sets a new benchmark with its 120W fast charging solution which is capable of topping up the phone’s battery in no time",
+                      "source": "Digit",
+                      "image": "https://i02.appmifile.com/8_operator_in/01/02/2022/e9853b271494b6f3e9d73ff0cbd65aa6.jpg"
+                },
+                {
+                      "name": "MI TV 5X SERIES",
+                      "description": "The big 4K panel goes edge-to-edge offering a 96.6% screen-to-body ratio to offer an immersive bezel-less viewing experience",
+                      "source": "Gizbot",
+                      "image": "https://i02.appmifile.com/842_operator_in/01/02/2022/1353c99ab0e8da2ce9f620b5819995c8.jpg"
+                },
+                {
+                      "name": "REDMI SMART TV SERIES",
+                      "description": "The 65-inch 4K HDR panel with HDR10+ and Dolby Vision manage to offer a cinematic viewing experience at the comfort of your living room",
+                      "source": "Gizbot",
+                      "image": "https://i02.appmifile.com/57_operator_in/01/02/2022/eb24c958c37f58076921f5b94637a4d3.jpg"
+                },
+                {
+                      "name": "REDMI 10 PRIME",
+                      "description": "The adaptive refresh rate, however, does a splendid job, and on overall terms, the display is one of the best bits about this phone ",
+                      "source": "News18",
+                      "image": "https://i02.appmifile.com/629_operator_in/01/02/2022/50f678d4f9eab8235ecc51ca730e9eac.jpg"
+                },
+                {
+                      "name": "REDMI NOTE 11T 5G",
+                      "description": "Redmi has, in fact, aimed at a package deal with the phone, thanks to the MediaTek Dimensity 810 5G processor, which has been built on 6nm architecture — performance is robust",
+                      "source": "The Telegraph",
+                      "image": "https://i02.appmifile.com/82_operator_in/01/02/2022/43ddb357e5451d4285810e1825af1fbd.jpg"
+                },
+                {
+                      "name": "MI NOTEBOOK ULTRA",
+                      "description": "It is hard to have all this come together so well while undercutting the rivals quite extensively—and the Mi Notebook Ultra has done it, without even coming close to any sort of visible attempts to save money or compromise on the specs ",
+                      "source": "News18",
+                      "image": "https://i02.appmifile.com/971_operator_in/05/10/2021/e979ce79722b581c8f2c7c37b607fff6.jpg"
+                },
+                {
+                  "name": "REDMIBOOK 15 PRO",
+                  "description": "The new RedmiBook 15 Pro offers everything you need, and nothing you don’t.",
+                  "source": "My Smart Price",
+                  "image": "https://i02.appmifile.com/538_operator_in/05/10/2021/615e3e9879971ec3572956aa1ebb0887.jpg"
+            },
+            {
+                  "name": "MI NOTEBOOK PRO",
+                  "description": "For starters, the design and build are A+, the display is nice, the battery life is solid and the 11th Gen Tigerlake chip, coupled with 16 Gigs of RAM and fast SSD makes sure you get solid performance ",
+                  "source": "Mr Phone",
+                  "image": "https://i02.appmifile.com/432_operator_in/05/10/2021/d1d5296d7f69faf2e38fef3e81c3b477.jpg"
+            },
+            {
+                  "name": "REDMIBOOK 15 E-LEARNING EDITION",
+                  "description": "It has a pretty solid hardware. The performance has been smooth so far. App loading, browsing, multi tasking, streaming were super smooth - no frame drops or lags ",
+                  "source": "Tech Singh",
+                  "image": "https://i02.appmifile.com/766_operator_in/05/10/2021/4ab870b6c1049f344eccc050290486dd.jpg"
+            },
+            {
+                  "name": "",
+                  "description": "Xiaomi Mi Robot Vacuum Mop is the house help everyone needs",
+                  "source": "CNBC TV",
+                  "image": "https://i02.appmifile.com/111_operator_in/30/07/2021/38f74d81d8c5ba9b2be95ff81af86edf.jpg"
+            },
+            {
+                  "name": "MI SMART WATER PURIFIER",
+                  "description": "Mi Smart Water Purifier: The Epitome Of Minimalism",
+                  "source": "Mr Phone",
+                  "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/97E65ECC-E105-9A20-6BD7-8A3235104C57.jpg"
+            }
+          ]
+    },
+    "offer": [
+          {
+                "url": "https://www.mi.com/in/product/redmi-a1-plus?notify=1",
+                "image": "https://i02.appmifile.com/746_operator_in/14/10/2022/2478ff0d601aae9f7176e121b6fd8f73.jpg?width=398&height=230"
+          },
+          {
+                "url": "https://in.event.mi.com/in/diwali-with-mi-2022",
+                "image": "https://i02.appmifile.com/33_operator_in/10/10/2022/b4276deca03b861263087ac87b190996.jpg?width=398&height=230"
+          },
+          {
+                "url": "https://in.event.mi.com/in/diwali-with-mi-2022",
+                "image": "https://i02.appmifile.com/459_operator_in/10/10/2022/9e52dae49291ae7da2c04325043e4e88.jpg?width=398&height=230"
+          }
+    ],
+    "starProduct": [
+          {
+                "url": "https://in.event.mi.com/in/smartphone-store",
+                "image": "https://i02.appmifile.com/589_operator_in/06/10/2022/500472dfa545596addc267fd74361613.jpg?width=612&height=612"
+          },
+          {
+                "url": "https://in.event.mi.com/in/laptop-store",
+                "image": "https://i02.appmifile.com/78_operator_in/06/10/2022/af801a9d61ae461d08a963129119e07a.jpg?width=612&height=612"
+          },
+          {
+                "url": "https://in.event.mi.com/in/smart-home-store",
+                "image": "https://i02.appmifile.com/521_operator_in/06/10/2022/73cb716d5a2036d1fd0e73e09ccbe011.jpg?width=612&height=612"
+          },
+          {
+                "url": "https://in.event.mi.com/in/tv-store",
+                "image": "https://i02.appmifile.com/630_operator_in/06/10/2022/6d1d4628fa48ce81ea3a94e2dfd642f6.jpg?width=612&height=612"
+          }
+    ],
+    "hotAccessories": {
+          "mobileStore": [
+                {
+                      "name": "Redmi 11 Prime 5G",
+                      "price": "₹ 12,999",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1662446292.95955638.jpg"
+                },
+                {
+                      "name": "Redmi A1",
+                      "price": "₹ 6,299",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1662398930.47448521.jpg"
+                },
+                {
+                      "name": "Redmi 10",
+                      "price": "₹ 8,999",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1647422910.83341748.png"
+                },
+                {
+                      "name": "Xiaomi 11i Hypercharge 5G",
+                      "price": "₹ 26,999",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1641445044.33945563.png"
+                },
+                {
+                      "name": "Mi Dual Driver In-ear Earphones",
+                      "price": "₹ 34,999",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1642499730.02192097.jpg"
+                }
+               
+          ],
+          "tv": [
+                {
+                      "name": "Xiaomi Smart TV 5A Series",
+                      "price": "₹ 12,999",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1650993021.84395849.jpg"
+                },
+                {
+                      "name": "Redmi Smart TV 4K Ultra HD X Series ",
+                      "price": "₹ 24,999",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1646032103.43951518.jpg"
+                },
+                {
+                      "name": "Mi TV 5X Series",
+                      "price": "₹ 30,001",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1629897150.48646618.jpg"
+                },
+                {
+                      "name": "Xiaomi Smart TV X Series",
+                      "price": "₹ 28,999",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1663152565.22081554.jpg"
+                },
+                {
+                      "name": "Xiaomi OLED Vision TV",
+                      "price": "₹ 89,999",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1650976094.42847806.jpg"
+                }
+          ],
+          "mobileAccessories": [
+                {
+                      "name": "Cases & Covers",
+                      "price": "₹ 49 onwards",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1551164869.57618003.jpg"
+                },
+                {
+                      "name": "Charger & USB Gadgets",
+                      "price": "₹ 179 onwards",
+                      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/5A5AA9AC-41A3-7E86-5922-928B312919B0.jpg"
+                },
+                {
+                      "name": "Mi Wireless Power Bank 10000mAh",
+                      "price": "₹ 2,499",
+                      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/3CBAACCE-D18A-B241-A4F8-54A4CCE194A5.jpg"
+                },
+                {
+                      "name": "10000mAh Mi Power Bank 3i",
+                      "price": "₹ 1,099",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1600434881.35114664.jpg?width=420&height=420"
+                },
+                {
+                      "name": "Redmi SonicBass Wireless Earphones",
+                      "price": "₹ 1,099",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1601900775.75794078.png?width=420&height=420"
+                }
+          ],
+          "lifeStyle": [
+                {
+                      "name": "Mi Travel Backpack",
+                      "price": "₹ 999",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1536381648.16353261.png?width=420&height=420"
+                },
+                {
+                      "name": "Mi Athleisure Shoes",
+                      "price": "₹ 1,499",
+                      "image": "https://i02.appmifile.com/363_operator_in/13/10/2020/c7bde508f128d7b1fd10a224d18a5333.png"
+                },
+                {
+                      "name": "Mi Beard Trimmer",
+                      "price": "₹ 1,399",
+                      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/CEEE67A3-3578-7048-887D-CFC3D90B5D17.jpg"
+                },
+                {
+                      "name": "Mi KN-95 Protective Mask (Pack of 5)",
+                      "price": "₹ 399",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1602500062.48215120.png?width=420&height=420"
+                },
+                {
+                      "name": "Mi Portable Electric Air Compressor",
+                      "price": "₹ 2,099",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1592479075.0368979.png?width=420&height=420"
+                },
+                {
+                      "name": "Mi T-shirts",
+                      "price": "₹ 399 onwards",
+                      "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/0D320403-6180-D6D6-9F57-4EDF0FEB58C7.jpg"
+                }
+          ],
+          "smartHome": [
+                {
+                      "name": "Xiaomi Robot Vaccume Mop 2 Pro",
+                      "price": "₹ 25,999",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1658400388.2213048.jpg"
+                },
+                {
+                      "name": "Xiaomi Smart Air Fryer(3.5L)",
+                      "price": "₹ 6,999",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1660019943.77048905.jpg"
+                },
+                {
+                      "name": "Xiaomi 360 home Security Camera 1080p 2i",
+                      "price": "₹ 2,499",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1657105733.93229769.jpg"
+                },
+                {
+                      "name": "Xiaomi Smart Standing Fan 2",
+                      "price": "₹ 6,000",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1657393587.11333510.jpg"
+                },
+                {
+                      "name": "Mi Air Purifier 3",
+                      "price": "₹ 9,999",
+                      "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1640025191.09699695.jpg"
+                }
+          ]
+    },
+    "hotAccessoriesCover": {
+          "mobileStore": "https://i02.appmifile.com/498_operator_in/13/10/2022/ceb69fcbd45baa0a6e68ab6a1a00e6a4.jpg",
+          "tv": "https://i02.appmifile.com/739_operator_in/13/10/2022/acdfce3c7f93fcb4fcec27094f74d723.jpg",
+          "mobileAccessories": "https://i02.appmifile.com/79_operator_in/22/09/2022/682abfac5bc6774c6634906370cac180.jpg",
+          "lifeStyle": "https://i02.appmifile.com/614_operator_in/22/09/2022/dfccdbc39fb80b3241298a32cbb7f5de.jpg",
+          "smartHome": "https://i02.appmifile.com/22_operator_in/22/09/2022/0619d8d09a7b223840dfd57ea4a3e442.jpg"
+    },
+    "productReviews": [
+          {
+                "image": "https://i02.appmifile.com/259_operator_in/04/02/2022/f76f28e3d4f5b1fce78d461e12e00bc7.jpg?width=606&height=252",
+                "review": "ALL ABOUT PERFORMANCE!",
+                "name": "REDMI NOTE 11T 5G",
+                "price": "₹ 16,999"
+          },
+          {
+                "image": "https://i02.appmifile.com/149_operator_in/04/02/2022/7f9762559b5d78130b310719d37daaea.jpg?width=606&height=252",
+                "review": "YOUR HOME-GUARD WITH HIGH RESOLUTION!",
+                "name": "MI HOME SECURITY CAMERA2K PRO ",
+                "price": "₹ 4,499"
+          }
+    ],
+    "videos": [
+          {
+                "name": "Xiaomi 11i",
+                "image": "https://i02.appmifile.com/741_operator_in/07/02/2022/81abe053200c37736e75e090d32a5bcc.jpg?width=398&height=320"
+          },
+          {
+                "name": "XIAOMI OLED VISION TV 55",
+                "image": "https://i02.appmifile.com/181_operator_in/20/07/2022/089be547af3dce9aab7d3538bdc3ff72.jpg?width=398&height=320"
+          },
+          {
+                "name": "XIAOMI 11 LITE NE 5G",
+                "image": "https://i02.appmifile.com/327_operator_in/07/02/2022/244bfd0645de5e7015460321203eb1f8.jpg?width=398&height=320"
+          }
+    ],
+    "footer": {
+          "support": [
+                {
+                      "name": "Online Help",
+                      "url": "https://www.mi.com/in/service/help/#category_id=1&pagenum=1&channel=1"
+                },
+                {
+                      "name": "Customer Service",
+                      "url": "https://www.mi.com/in/service/online/"
+                },
+                {
+                      "name": "Shipping FAQ",
+                      "url": "https://www.mi.com/in/service/shipping/"
+                },
+                {
+                      "name": "Service Centres",
+                      "url": "https://www.mi.com/in/service/repair/"
+                },
+                {
+                      "name": "Warrenty",
+                      "url": "https://www.mi.com/in/service/warranty/"
+                },
+                {
+                      "name": "Mi Exchange",
+                      "url": "https://www.mi.com/in/miexchange/"
+                },
+                {
+                      "name": "Bulk Order",
+                      "url": "https://www.mi.com/in/bulkbuy/"
+                },
+                {
+                      "name": "User Guide",
+                      "url": "https://www.mi.com/in/service/userguide/"
+                },
+                {
+                      "name": "Laptop Drivers",
+                      "url": "https://www.mi.com/in/service/support/laptop-drivers.html"
+                },
+                {
+                      "name": "Mi Screen Protect",
+                      "url": "https://www.mi.com/in/service/miphoneprotection/#miscreenprotect"
+                },
+                {
+                      "name": "Mi Extended Warranty",
+                      "url": "https://www.mi.com/in/service/miextendedwarranty/"
+                }
+          ],
+          "shopAndLearn": [
+                {
+                      "name": "Mi 10i",
+                      "url": "https://www.mi.com/in/mi-10i/"
+                },
+                {
+                      "name": "Mi 10T Series",
+                      "url": "https://in.event.mi.com/in/mi-10t-series"
+                },
+                {
+                      "name": "Mi 11 Ultra",
+                      "url": "https://www.mi.com/in/mi-11-ultra/"
+                },
+                {
+                      "name": "Mi 11X",
+                      "url": "https://www.mi.com/in/mi-11x/"
+                },
+                {
+                      "name": "Mi 11X Pro",
+                      "url": "https://www.mi.com/in/mi-11x-pro/"
+                },
+                {
+                      "name": "Redmi 8",
+                      "url": "https://www.mi.com/in/redmi-8/"
+                },
+                {
+                      "name": "Redmi 9",
+                      "url": "https://www.mi.com/in/redmi-9/"
+                },
+                {
+                      "name": "Redmi 9 Prime",
+                      "url": "https://www.mi.com/in/redmi-9-prime/"
+                },
+                {
+                      "name": "Redmi 9i",
+                      "url": "https://www.mi.com/in/redmi-9i/"
+                },
+                {
+                      "name": "Redmi 9A",
+                      "url": "https://www.mi.com/in/redmi-9a/"
+                },
+                {
+                      "name": "Redmi Note 10",
+                      "url": "https://www.mi.com/in/redmi-note-10/"
+                },
+                {
+                      "name": "Redmi Note 10 Pro",
+                      "url": "https://www.mi.com/in/redmi-note-10-pro/"
+                },
+                {
+                      "name": "Redmi Note 10 Pro Max",
+                      "url": "https://www.mi.com/in/redmi-note-10-pro-max/"
+                },
+                {
+                      "name": "Redmi Note 9 Pro",
+                      "url": "https://www.mi.com/in/redmi-note-9-pro/"
+                },
+                {
+                      "name": "Redmi Note 9",
+                      "url": "https://www.mi.com/in/redmi-note-9/"
+                },
+                {
+                      "name": "Redmi Note 9 Pro Max",
+                      "url": "https://www.mi.com/in/redmi-note-9-pro-max/"
+                },
+                {
+                      "name": "TVs",
+                      "url": "https://www.mi.com/in/all-mi-tv"
+                },
+                {
+                      "name": "Laptops",
+                      "url": "https://www.mi.com/in/xiaomi-laptops"
+                }
+          ],
+          "retailStore": [
+                {
+                      "name": "Mi Home",
+                      "url": "https://www.mi.com/in/service/mihome/"
+                },
+                {
+                      "name": "Mi Authorised Stores",
+                      "url": "https://www.mi.com/in/service/authorized_stores/"
+                }
+          ],
+          "aboutUs": [
+                {
+                      "name": "Xioami",
+                      "url": "https://www.mi.com/in/about/"
+                },
+                {
+                      "name": "Mediakit",
+                      "url": "https://www.mi.com/in/mediakit/"
+                },
+                {
+                      "name": "Culture",
+                      "url": "https://www.mi.com/in/about/#culture"
+                },
+                {
+                      "name": "User Agreement",
+                      "url": "https://www.mi.com/in/about/agreement/"
+                },
+                {
+                      "name": "Privacy Policy",
+                      "url": "https://www.mi.com/in/about/privacy/"
+                },
+                {
+                      "name": "Declarations",
+                      "url": "https://www.mi.com/in/service/support/mideclare.html"
+                },
+                {
+                      "name": "Integrity & Compliance",
+                      "url": "https://integrity.mi.com/global"
+                },
+                {
+                      "name": "Smartphone Quality",
+                      "url": "https://www.mi.com/in/smartphone-quality/"
+                },
+                {
+                      "name": "TV Quality",
+                      "url": "https://www.mi.com/in/tv-quality/"
+                },
+                {
+                      "name": "Service Quality",
+                      "url": "https://www.mi.com/in/service-quality/"
+                },
+                {
+                      "name": "Environment",
+                      "url": "https://www.mi.com/in/service/support/ewastetakeback.html"
+                },
+                {
+                      "name": "Sitemap",
+                      "url": "https://www.mi.com/in/sitemap"
+                }
+          ],
+          "contactUs": [
+                {
+                      "name": "Email",
+                      "url": "https://in.event.mi.com/in/questionnaire/email_us"
+                },
+                {
+                      "name": "Careers",
+                      "url": "https://www.mi.com/in/about/#career"
+                }
+          ]
+    }
+}
